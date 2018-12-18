@@ -1,6 +1,6 @@
 # redux_store
 
-A new Flutter project.
+A new Flutter project based on redux
 
 ## Getting Started
 
